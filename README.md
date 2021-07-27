@@ -11,6 +11,8 @@
 -   [x] align-self
 -   [x] align-wrap
 -   [x] align-content
+-   [x] flex-shrink
+-   [x] flex-grow
 
 ## Grid:
 
