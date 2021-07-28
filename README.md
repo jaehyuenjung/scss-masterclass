@@ -13,6 +13,7 @@
 -   [x] align-content
 -   [x] flex-shrink
 -   [x] flex-grow
+-   [x] flex-basis
 
 ## Grid:
 
