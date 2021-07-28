@@ -28,6 +28,8 @@
 -   [x] grid-column-end
 -   [x] grid-row-start
 -   [x] grid-row-end
+-   [x] grid-column
+-   [x] grid-row
 
 ## Keywords & Functions:
 
