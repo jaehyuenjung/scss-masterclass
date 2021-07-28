@@ -17,6 +17,12 @@
 
 ## Grid:
 
+-   [x] grid-template-columns
+-   [x] grid-template-rows
+-   [x] column-gap
+-   [x] row-gap
+-   [x] gap
+
 ## Keywords & Functions:
 
 ## SCSS:
