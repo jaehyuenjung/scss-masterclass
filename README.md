@@ -22,6 +22,8 @@
 -   [x] column-gap
 -   [x] row-gap
 -   [x] gap
+-   [x] grid-template-areas
+-   [x] grid-area
 
 ## Keywords & Functions:
 
