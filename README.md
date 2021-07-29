@@ -48,6 +48,8 @@
 -   [x] minmax
 -   [x] auto-fill
 -   [x] auto-fit
+-   [x] min-content
+-   [x] max-content
 
 ## SCSS:
 
