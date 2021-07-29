@@ -37,8 +37,14 @@
 -   [x] justify-content
 -   [x] align-content
 -   [x] place-content
+-   [x] grid-auto-rows
+-   [x] grid-auto-flow
+-   [x] grid-auto-columns
 
 ## Keywords & Functions:
+
+-   [x] repeat
+-   [x] fr
 
 ## SCSS:
 
