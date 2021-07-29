@@ -31,6 +31,9 @@
 -   [x] grid-column
 -   [x] grid-row
 -   [x] grid-template
+-   [x] justify-items
+-   [x] align-items
+-   [x] place-items
 
 ## Keywords & Functions:
 
