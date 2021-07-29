@@ -34,6 +34,9 @@
 -   [x] justify-items
 -   [x] align-items
 -   [x] place-items
+-   [x] justify-content
+-   [x] align-content
+-   [x] place-content
 
 ## Keywords & Functions:
 
