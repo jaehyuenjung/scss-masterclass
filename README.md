@@ -46,6 +46,8 @@
 -   [x] repeat
 -   [x] fr
 -   [x] minmax
+-   [x] auto-fill
+-   [x] auto-fit
 
 ## SCSS:
 
