@@ -45,6 +45,7 @@
 
 -   [x] repeat
 -   [x] fr
+-   [x] minmax
 
 ## SCSS:
 
