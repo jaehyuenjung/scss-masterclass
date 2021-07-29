@@ -25,11 +25,12 @@
 -   [x] grid-template-areas
 -   [x] grid-area
 -   [x] grid-column-start
--   [x] grid-column-end
+-   [x] grid-column-end`
 -   [x] grid-row-start
 -   [x] grid-row-end
 -   [x] grid-column
 -   [x] grid-row
+-   [x] grid-template
 
 ## Keywords & Functions:
 
