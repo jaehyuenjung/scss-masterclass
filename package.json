@@ -1,0 +1,31 @@
+{
+    "name": "scss-masterclass",
+    "version": "1.0.0",
+    "description": "(S)CSS Layout Masterclass: Flex & Grid",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "gulp dev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jaehyuenjung/scss-masterclass.git"
+    },
+    "author": "Jae Hyuen Jung <jaehyuen0613@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jaehyuenjung/scss-masterclass/issues"
+    },
+    "homepage": "https://github.com/jaehyuenjung/scss-masterclass#readme",
+    "dependencies": {
+        "@babel/core": "^7.4.5",
+        "@babel/preset-env": "^7.4.5",
+        "@babel/register": "^7.4.4",
+        "del": "^4.1.1",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^6.1.0",
+        "gulp-csso": "^3.0.1",
+        "gulp-sass": "^4.0.2",
+        "node-sass": "^4.12.0"
+    }
+}
