@@ -53,4 +53,7 @@
 
 ## SCSS:
 
+-   [x] Variables
+-   [x] Nesting
+
 # To Clone:
