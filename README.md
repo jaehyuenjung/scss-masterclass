@@ -56,5 +56,6 @@
 -   [x] Variables
 -   [x] Nesting
 -   [x] Mixins
+-   [x] Extends
 
 # To Clone:
